@@ -1,0 +1,16 @@
+# Created at 2024-01-06T12:57:27.725
+Unexpected IOException with stream: 2024-01-06 12:57:27.631  INFO 4344 --- [           main] com.example.song.SmokeTest               : Started SmokeTest in 27.298 seconds (JVM running for 120.108)
+
+
+# Created at 2024-01-06T12:57:27.830
+Unexpected IOException: 5,1,com.example.song.SmokeTest,contextLoads,null,null,null
+
+
+# Created at 2024-01-06T12:57:28.827
+Unexpected IOException: 6,1,com.example.song.SmokeTest,contextLoads,null,null,null
+
+
+# Created at 2024-01-06T12:57:28.828
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,com.example.song.SmokeTest,null,null,null
+
+
